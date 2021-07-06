@@ -1,0 +1,16 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sim_1/new/TD4_sim.v,1624896125,verilog,,,,TD4_sim,,,,,,,,
+/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sim_1/new/data_selector_sim.v,1623780126,verilog,,,,data_selector_sim,,,,,,,,
+/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sim_1/new/decoder_sim.v,1625157836,verilog,,,,decoder_sim,,,,,,,,
+/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sim_1/new/register_sim.v,1623945602,verilog,,,,register_sim,,,,,,,,
+/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sources_1/new/ALU.v,1625583672,verilog,,/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sources_1/new/PC.v,,ALU,,,,,,,,
+/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sources_1/new/PC.v,1625584383,verilog,,/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sources_1/new/ROM.v,,PC,,,,,,,,
+/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sources_1/new/ROM.v,1624635102,verilog,,/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sources_1/new/TD4.v,,ROM,,,,,,,,
+/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sources_1/new/TD4.v,1625581136,verilog,,/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sources_1/new/data_selector.v,,TD4,,,,,,,,
+/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sources_1/new/data_selector.v,1623772105,verilog,,/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sources_1/new/decoder.v,,data_selector,,,,,,,,
+/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sources_1/new/decoder.v,1625155255,verilog,,/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sources_1/new/register.v,,decoder,,,,,,,,
+/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sources_1/new/register.v,1624896446,verilog,,/home/ken/ubuROBOTS/develop/FPGAworks/CPU/TD4/TD4/TD4.srcs/sim_1/new/TD4_sim.v,,register,,,,,,,,

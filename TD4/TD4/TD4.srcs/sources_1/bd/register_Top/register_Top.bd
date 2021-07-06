@@ -1,0 +1,48 @@
+{
+  "design": {
+    "design_info": {
+      "boundary_crc": "0x0",
+      "device": "xc7z020clg400-1",
+      "name": "register_Top",
+      "synth_flow_mode": "Hierarchical",
+      "tool_version": "2019.1"
+    },
+    "design_tree": {
+      "register_0": ""
+    },
+    "components": {
+      "register_0": {
+        "vlnv": "xilinx.com:module_ref:register:1.0",
+        "xci_name": "register_Top_register_0_0",
+        "reference_info": {
+          "ref_type": "hdl",
+          "ref_name": "register",
+          "boundary_crc": "0x0"
+        },
+        "ports": {
+          "reset_N": {
+            "type": "rst",
+            "direction": "I"
+          },
+          "clock": {
+            "type": "clk",
+            "direction": "I"
+          },
+          "inData": {
+            "direction": "I",
+            "left": "3",
+            "right": "0"
+          },
+          "ld_N": {
+            "direction": "I"
+          },
+          "outData": {
+            "direction": "O",
+            "left": "3",
+            "right": "0"
+          }
+        }
+      }
+    }
+  }
+}
